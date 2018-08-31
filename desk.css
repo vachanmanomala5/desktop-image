@@ -54,6 +54,7 @@
     flex-direction: column;
      justify-content: center;
    }
-   
-
-}
+   .four,img{
+     margin: 5px;
+   }
+ }
